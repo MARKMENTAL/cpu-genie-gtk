@@ -14,6 +14,11 @@ cpu-genie-gtk is a Python GTK application designed for Debian Linux, providing C
 - **Python 3**: Ensure you have Python 3 installed on your Debian Linux system.
 - **GTK 3.0**: This application relies on GTK 3.0 for its graphical interface.
 
+## Dependencies to install (Debian)
+```bash
+sudo apt-get install python3-gi gobject-introspection gir1.2-gtk-3.0 python3-psutil
+```
+
 ## Installation
 
 1. Clone this repository to your local machine:
