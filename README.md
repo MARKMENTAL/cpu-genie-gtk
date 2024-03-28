@@ -19,7 +19,7 @@ cpu-genie-gtk is a Python GTK application designed for Debian Linux, providing C
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/cpu-genie-gtk.git
+git clone https://github.com/markmental/cpu-genie-gtk.git
 ```
 
 2. Navigate to the project directory:
